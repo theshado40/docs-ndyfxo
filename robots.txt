@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-975ttu.kryptonroofing.co.uk/sitemap.xml
